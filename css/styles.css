@@ -75,7 +75,7 @@ html {
 /*----------------- HEADER --------------- */
 .header-page {
   background: var(--main-background-color);
-  background-color: #ccc;
+  background-color: var(--main-background-color);
   border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
