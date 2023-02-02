@@ -90,8 +90,8 @@ html {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
   padding-right: 15px;
+  padding-left: 15px;
   max-width: 1158px;
 }
 .header-logo {
