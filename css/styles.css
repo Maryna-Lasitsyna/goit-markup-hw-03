@@ -250,7 +250,7 @@ img {
 }
 .team-item {
   background: var(--team-item-background);
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .team-subtitle {
   text-align: center;
