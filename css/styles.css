@@ -240,7 +240,9 @@ img {
 /*-----------------TEAM --------------- */
 .team {
   background: var(--team-background);
+  padding-top: 120px;
 }
+
 .team-title {
   margin-bottom: 72px;
 }
@@ -282,6 +284,7 @@ img {
   color: var(--footer-logo-color);
   margin-bottom: 16px;
   padding-top: 0;
+  padding-bottom: 0;
   display: inline-block;
 }
 .web {
@@ -299,7 +302,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--footer-text-color);
-  padding-top: 0;
+  padding: 0;
   width: 264px;
 }
 
